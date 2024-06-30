@@ -7,4 +7,4 @@
 
 * ***UI/UX***
 
-***After one of the players reaches a score of 21 points, the game displays congratulations to the winner and ends.==***
+***After one of the players reaches a score of 21 points, the game displays congratulations to the winner and ends.***
